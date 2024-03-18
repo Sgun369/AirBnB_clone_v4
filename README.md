@@ -156,6 +156,6 @@ No known bugs at this time.
 ## Authors
 Souhaieb - Jebali[Github](https://https://github.com/Sgun369)
 
-Second part of Airbnb: Joann Vuong
+
 ## License
 Public Domain. No copy write protection. 
